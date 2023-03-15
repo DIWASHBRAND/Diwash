@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from PRINCE import main_apv
+        from Diwash import main_apv
  
         main_apv()
  
